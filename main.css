@@ -1,0 +1,31 @@
+body {
+  margin-left: calc((100% - 800px) / 2);
+  background-color: #EBECEE;
+  /* display: inline-block; */
+}
+main {
+  /* display: inline-block; */
+  
+}
+.left-column {
+  width: 40%;
+  /* display: inline-block; */
+}
+.right-column {
+  width: 50%;
+  /* display: inline-block; */
+}
+.description {
+  font-size: 10px;
+}
+a {
+  background-color: #696F89; 
+  text-transform: uppercase;
+}
+.text {
+  background-color: red;
+}
+
+h1 {
+  color: red;
+}
